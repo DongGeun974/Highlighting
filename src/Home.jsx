@@ -80,11 +80,13 @@ const Home = () => {
                 />
                 HIGHLIGHTING
               </h1>
-              
+              <a href="https://drive.google.com/file/d/18kx-V44rLVlF4QzHpMjlQ2tytbKs-L0V/view?usp=sharing"
+              target='_blank'>
               <button className="resultButton">
                 <span>Window 다운</span>
               </button>
-
+              </a>
+              
               <button className="resultButton">
                 <span>Linux 다운</span>
               </button>
